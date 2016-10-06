@@ -9,3 +9,7 @@ header, footer {
 ul > nav {
   font-family: sans-serif;
 }
+
+.logo {
+  text-transform: uppercase;
+}
